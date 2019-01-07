@@ -3,5 +3,5 @@
   "description": "Video downloader using youtube-dl",
   "path": "/insert/your/path/here/to/youtube-dl-bridge.py",
   "type": "stdio",
-  "allowed_extensions": [ "1itdominator@gmail.com" ]
+  "allowed_extensions": [ "webVidDownloader@1itdominator.com", "betterYoutube@itdominator.com" ]
 }
